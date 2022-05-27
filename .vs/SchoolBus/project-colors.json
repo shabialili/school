@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51be5dc0-23bc-431e-ad1c-c8a1ccbbd585": {
+      "ProjectGuid": "51be5dc0-23bc-431e-ad1c-c8a1ccbbd585",
+      "DisplayName": "SchoolBus",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
